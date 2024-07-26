@@ -32,7 +32,7 @@ The dataset.csv file contains the dataset used for this project. Each row repres
 ### <a name="_jyr9ojrumqg8"></a>**Example Usage**
 **To run the project, follow these steps:**
 
-1. Clone the repository:**git clone https://github.com/yourusername/ML-Band-Gap-Prediction.git cd ML-Band-Gap-Prediction**
+1. Clone the repository:**git clone https://github.com/Deepayanbasu007/ML-Band-Gap-Prediction.git cd ML-Band-Gap-Prediction**
 1. Open the Jupyter notebooks and run them step-by-step:
 - Run Crystal\_Features\_\_Atomic\_Features.ipynb to generate features.
 - Run BG\_Prediction.ipynb to train and evaluate the model.
