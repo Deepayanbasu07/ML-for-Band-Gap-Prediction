@@ -41,9 +41,9 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ## <a name="_4iti9psxkdnl"></a>**Contact**
 For any questions or suggestions, feel free to reach out:
 
+- Ph: 91-8100537113
 - Email: <deepayanbasu5@gmail.com>
 - Alt\_email : basu.3@iitj.ac.in
-- GitHub:[ ](https://github.com/yourusername)[yourusername](https://github.com/yourusername)
 
 
 
@@ -54,9 +54,11 @@ The final results of the band gap prediction model are as follows:
 - **Training Data Size**: [number of samples]
 - **Test Data Size**: [number of samples]
 - **Evaluation Metrics**:
-  - Mean Absolute Error (MAE): [value]
-  - Mean Squared Error (MSE): [value]
-  - R² Score: [value]
+  - Random Forest MAE:	0.0022922195389678945
+  - Random Forest R2:	0.9999100159046438
+
+  - XGBoost MAE:	0.007091375303173743
+  - XGBoost R2:	0.9998081513297306
 ### <a name="_c1a2csumnq4q"></a>**Model Performance**
 The model demonstrates the following performance on the test set:
 
@@ -81,6 +83,7 @@ Below are some visualizations of the model's performance:
 - **Potential Improvements**:
   - Incorporating additional features could further improve the model's accuracy.
   - Experimenting with different machine learning algorithms and hyperparameters may also yield better results.
+![](https://komarev.com/ghpvc/?username=Deepayanbasu07)
 
 
 
